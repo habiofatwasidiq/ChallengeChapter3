@@ -6,9 +6,13 @@ class App {
         println("GAME SUIT TERMINAL VERSION")
         println("==========================")
     }
+    private fun inputAndResult() {
+
+    }
 
     fun run () {
         printHeader()
+        inputAndResult()
 
     }
 
