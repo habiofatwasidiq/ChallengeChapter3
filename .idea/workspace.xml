@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7ce7295-7fe1-4129-ad65-e22519835d9a" name="Changes" comment="" />
+    <list default="true" id="a7ce7295-7fe1-4129-ad65-e22519835d9a" name="Changes" comment="initiate input and result" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662389238435</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="initiate input and result">
+      <created>1662390095164</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662390095164</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,6 +101,7 @@
     <MESSAGE value="Initiate App.kt and delete main file" />
     <MESSAGE value="initiate data class" />
     <MESSAGE value="finishing data class" />
-    <option name="LAST_COMMIT_MESSAGE" value="finishing data class" />
+    <MESSAGE value="initiate input and result" />
+    <option name="LAST_COMMIT_MESSAGE" value="initiate input and result" />
   </component>
 </project>
