@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7ce7295-7fe1-4129-ad65-e22519835d9a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a7ce7295-7fe1-4129-ad65-e22519835d9a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +11,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="Kotlin Data Class" />
       </list>
     </option>
   </component>
@@ -62,7 +61,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662387571878</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="initiate data class">
+      <created>1662389156579</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662389156579</updated>
+    </task>
+    <task id="LOCAL-00004" summary="finishing data class">
+      <created>1662389238435</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662389238435</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -79,6 +92,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initiate Project" />
     <MESSAGE value="Initiate App.kt and delete main file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initiate App.kt and delete main file" />
+    <MESSAGE value="initiate data class" />
+    <MESSAGE value="finishing data class" />
+    <option name="LAST_COMMIT_MESSAGE" value="finishing data class" />
   </component>
 </project>
